@@ -1,1 +1,3 @@
-contains serial of allowed devices
+#Serial cua cac may duoc phep dung 
+#May cua An
+007902853864000
