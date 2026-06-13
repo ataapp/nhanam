@@ -1,0 +1,1 @@
+contains serial of allowed devices
